@@ -1,0 +1,12 @@
+.title{
+    /*display: block;*/
+    width: 730px;
+    margin-left: 64px;
+    align-items: center;
+    border-color: brown;
+    border-style: dashed;
+    align-self: center;
+    font-size: 102px;
+    font-weight: bold;
+    line-height: 96px;
+}
